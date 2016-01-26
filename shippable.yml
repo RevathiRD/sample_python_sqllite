@@ -1,4 +1,5 @@
-build_image: drydock/u14pytpls:tip
+#build_image: drydock/u14pytpls:tip
+build_image: drydock/u14pytall:tip
 python:
   - 2.6      
   - 2.7
